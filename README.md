@@ -60,4 +60,4 @@ Swagger OpenAPI documentation is available at: [http://0.0.0.0:8000/docs](http:/
 
 - **DELETE /url/{id}**  
   Deletes a specific URL by its ID.  
-  **Response**: `204 No Content` or `404 Not Found` if the ID is invalid.
+  **Response**: `204 No Content`.
